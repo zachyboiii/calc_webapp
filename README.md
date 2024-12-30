@@ -3,8 +3,8 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Mini Project 2: Math Quiz App](#mini-project-2-math-quiz-app)
-    - [Learning Objectives](#learning-objectives)
+- [Math Quiz App](#math-quiz-app)
+    - [Summary](#summary)
     - [Setup](#setup)
         - [Install Git](#install-git)
         - [Downloading Repository](#downloading-repository)
