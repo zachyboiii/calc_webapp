@@ -1,4 +1,4 @@
-# Mini Project 2: Math Quiz App
+# Math Quiz App
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -31,12 +31,12 @@
 <!-- markdown-toc end -->
 
 
-## Learning Objectives
-In this mini project, you will develop a web app to create and play math quiz for integer arithmetic. By the end of this assignment, you should be able to:
-- Create a web app using Flask web framework
-- Implement mergesort for server application library
-- Use Stack to evaluate integer expressions
-- Use database to store and retrieve data
+## Summary
+- Develop a web app to create and play math quiz for integer arithmetic
+- Created a web app using Flask web framework
+- Implemented mergesort for server application library
+- Used Stack to evaluate integer expressions
+- Used database to store and retrieve data
 
 ## Setup
 
